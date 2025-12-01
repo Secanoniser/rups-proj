@@ -1117,4 +1117,5 @@ if (isset($_GET['edit'])) {
 <?php } ?>
 <p class="small">Tip: If saving fails due to permissions, a downloadable copy (.edited.YYYYMMDD_HHMMSS.txt) is created. Directory deletions are recursive; ensure you confirm before deleting.</p>
 </body>
+
 </html>
